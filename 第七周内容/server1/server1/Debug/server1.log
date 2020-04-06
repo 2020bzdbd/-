@@ -1,0 +1,4 @@
+﻿  Sever.cpp
+E:\c++\server1\server1\Sever.cpp(46,9): warning C4101: “send_len”: 未引用的局部变量
+E:\c++\server1\server1\Sever.cpp(206,10): warning C4101: “recv_buf”: 未引用的局部变量
+  server1.vcxproj -> E:\c++\server1\Debug\server1.exe
